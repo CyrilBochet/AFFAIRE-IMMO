@@ -75,7 +75,7 @@
 ### **Emprunteurs**
 - Il n'est plus possible de créer un emprunteur directement. Vous devez désormais obligatoirement passer par la création d'un prospect et compléter ses informations afin de le faire évoluer en emprunteur. 
 - Les prochains emprunteurs que vous créerez pourront être filtrés par l'agence à laquelle ils ont été associés (celle du prospect). 
-- Pour les emprunteurs existants, il sera également possible de les associer à une agence en passant par le formulaire de modification. 
+- Pour les emprunteurs existants, il sera également possible de les associer à une agence en passant par le formulaire de modification. En attendant, vous pouvez les retrouver dans la catégorie "SANS AGENCE ASSOCIÉE".
  
 
 ###  **Comptabilité**
