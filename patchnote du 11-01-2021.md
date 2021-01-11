@@ -2,7 +2,7 @@
 ### Attention, il est probable lors de vos précédentes navigations que votre navigateur ait enregistré des données pouvant causer des problèmes d'affichage avec la nouvelle mise à jour.
 ### Voici comment les corriger : 
 - Sur Windows : 
-  - **CTRL + R** ou **CTRL + F5** sur la page avec une anomalie d'affichage. 
+  - **CTRL + SHIFT + R** ou **CTRL + F5** sur la page avec une anomalie d'affichage. 
 - Sur Mac : 
   - **COMMAND + R** ou **COMMAND + SHIFT + R** sur la page avec une anomalie d'affichage.
 ##### &nbsp;
