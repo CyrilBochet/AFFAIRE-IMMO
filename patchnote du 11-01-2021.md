@@ -17,6 +17,7 @@
 ### **Améliorations graphiques** 
 - Nouveau pied de page avec les réseaux sociaux. 
 - Amélioration de l'affichage de nombreuses pages. 
+- Nouveau logo.
 
 ###  **Apporteurs**
 - Les types d'apporteur suivants ont été renommés afin d'éviter les confusions : 
