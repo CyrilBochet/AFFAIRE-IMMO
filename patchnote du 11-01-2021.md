@@ -27,7 +27,6 @@
   - L'email est maintenant facultatif, s'il n'est pas renseigné il se composera de cette façon :  nom-utilisateur@apporteur-afrfinancement.fr
   - Vous devrez obligatoirement associer une personne morale pour les types d'apporteur suivants : *Agence Immo, Constructeur Immo, Agence Notariale, Compagnie d'assurance*. 
   - Il n'est plus possible de créer un apporteur de type **PUB** ou **DIRECT**. En effet, afin d'éviter les doublons et autres problèmes, un et un seul apporteur de ces 2 types sera à la disposition de tous. 
-- Connexion du formulaire web du site national avec Affaire. Cela permet ainsi de directement ajouter les prospects du formulaire sous le type d'apporteur **AFR Leads**. 
 
 ##### &nbsp;
 ### **Banques et groupes bancaires**
